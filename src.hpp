@@ -1,5 +1,5 @@
-#ifndef EVIL_HPP
-#define EVIL_HPP
+#ifndef SRC_HPP
+#define SRC_HPP
 
 #include <iostream>
 using namespace std;
@@ -88,4 +88,4 @@ public:
 	}
 };
 
-#endif//EVIL_HPP
+#endif//SRC_HPP
